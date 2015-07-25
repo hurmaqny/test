@@ -5,3 +5,5 @@ And
 2.Apple is the new Microsoft.
 
 3.This is new commit.
+
+4. Why do Java developers wear glasses? Because they don't C#.
